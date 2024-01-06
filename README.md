@@ -9,9 +9,9 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 - Unique projects for beginner and intermediate level.
 - DOM manipulation, events, array methods, HTTP request, ect.
 
-# DEMO
+# DEMO ▷
 
-| Project            | DEMO                                                                   |
-| ------------------ | ---------------------------------------------------------------------- |
-| 1. Expanding Cards | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
-| 2. Progress Steps  | Content Cell                                                           |
+| PROJECTS                                                 | LIVE DEMO                                                              |
+| -------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1. <link href="./Expanding Cards">Expanding Cards</link> | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
+| 2. Progress Steps                                        | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
