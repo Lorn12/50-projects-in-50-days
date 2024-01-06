@@ -11,7 +11,7 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 
 # DEMO ▷
 
-| PROJECTS                                                 | LIVE DEMO                                                              |
-| -------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1. <link href="./Expanding Cards">Expanding Cards</link> | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
-| 2. Progress Steps                                        | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
+| PROJECTS                                                                                                      | LIVE DEMO                                                              |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Expanding%20Cards">Expanding Cards</a> | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
+| 2. Progress Steps                                                                                             | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
