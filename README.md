@@ -11,7 +11,7 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 
 # DEMO
 
-| Project            | DEMO                                                                 |
-| ------------------ | -------------------------------------------------------------------- |
-| 1. Expanding Cards | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO<> |
-| 2. Progress Steps  | Content Cell                                                         |
+| Project            | DEMO                                                                   |
+| ------------------ | ---------------------------------------------------------------------- |
+| 1. Expanding Cards | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
+| 2. Progress Steps  | Content Cell                                                           |
