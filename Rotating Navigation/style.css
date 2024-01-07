@@ -6,7 +6,7 @@
 
 body {
   font-family: "Lato", sans-serif;
-  background-color: #333;
+  background-color: #000;
   color: #222;
   overflow-x: hidden;
   margin: 0;
@@ -34,7 +34,7 @@ body {
 }
 
 .circle {
-  background-color: #ff7979;
+  background-color: #ff5733;
   height: 200px;
   width: 200px;
   border-radius: 50%;
@@ -102,6 +102,7 @@ nav ul li {
 nav ul li i {
   font-size: 20px;
   margin-right: 10px;
+  color: #ff5733;
 }
 
 nav ul li + li {
@@ -117,6 +118,7 @@ nav ul li + li + li {
 /* <!-- CONTENT SECTION____________________________________________________________________________________________________________________ --> */
 .content img {
   max-width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .content {
@@ -136,4 +138,17 @@ nav ul li + li + li {
 .content p {
   color: #333;
   line-height: 1.5;
+  margin-bottom: 2.5rem;
+}
+
+.btn-learn {
+  color: #fff;
+  background-color: #ff5733;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.btn-learn:hover {
+  opacity: 0.8;
 }
