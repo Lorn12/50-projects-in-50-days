@@ -15,4 +15,4 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 1. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Expanding%20Cards">EXPANDING CARDS</a>         | <a href="https://main--graceful-capybara-ea0ae4.netlify.app/">DEMO</a> |
 | 2. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Progress%20Steps">PROGRESS STEPS</a>           | <a href="https://main--bucolic-swan-c4f0a2.netlify.app/">DEMO</a>      |
-| 3. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Rotating%20Navigation">Rotating Navigation</a> | <a href="https://main--leafy-griffin-eba5d0.netlify.app/">DEMO</a>     |
+| 3. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Rotating%20Navigation">ROTATING NAVIGATION</a> | <a href="https://main--leafy-griffin-eba5d0.netlify.app/">DEMO</a>     |
