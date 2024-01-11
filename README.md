@@ -19,3 +19,4 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 | 4. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Hidden%20Search%20Widget">HIDDEN SEARCH WIDGET</a> | <a href="https://main--elegant-concha-d282ff.netlify.app/">DEMO</a>    |
 | 5. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Blurry%20Loading">BLURRY LOADING</a>               | <a href="https://main--dulcet-beignet-73a24c.netlify.app/">DEMO</a>    |
 | 6. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Scroll%20Animation">SCROLL ANIMATION</a>           | <a href="https://main--endearing-treacle-9a8448.netlify.app/">DEMO</a> |
+| 7. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Split%20Landing%20Page">SPLIT-LANDING PAGE</a>     | <a href="https://startling-unicorn-b70ca4.netlify.app/">DEMO</a>       |
