@@ -130,3 +130,17 @@ h1 {
 .hover-right .left {
   width: var(--other-width);
 }
+
+/* @MEDIA__________________________________________________________________________________________________________________________ */
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+    top: 30%;
+  }
+
+  .btn {
+    padding: 1.2rem;
+    width: 12rem;
+  }
+}
