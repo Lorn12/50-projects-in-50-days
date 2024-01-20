@@ -22,4 +22,5 @@ These projects are from Brad Traversy & Florin Pop's Udemy Course. This course i
 | 7. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Split%20Landing%20Page">SPLIT-LANDING PAGE</a>     | <a href="https://startling-unicorn-b70ca4.netlify.app/">DEMO</a>          |
 | 8. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Form%20Wave%20Animation">FORM WAVE ANIMATION</a>   | <a href="https://main--creative-gaufre-cd8372.netlify.app/">DEMO</a>      |
 | 9. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Sound%20Board">SOUND BOARD</a>                     | <a href="https://main--aquamarine-pithivier-476ffd.netlify.app/">DEMO</a> |
-| 10. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Event%20KeyCodes">DAD JOKES</a>                   | <a href="https://main--preeminent-bubblegum-e391e1.netlify.app/">DEMO</a> |
+| 10. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/Event%20KeyCodes">EVENT KEYCODES</a>              | <a href="https://main--preeminent-bubblegum-e391e1.netlify.app/">DEMO</a> |
+| 11. <a href="https://github.com/Lorn12/50-projects-in-50-days/tree/main/FAQ%20Collapse">FAQ COLLAPSE</a>                  | <a href="https://main--taupe-creponne-7eca3f.netlify.app/">DEMO</a>       |
